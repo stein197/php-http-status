@@ -1,4 +1,4 @@
-[![](https://img.shields.io/github/license/stein197/http-status)](LICENSE)
+[![](https://img.shields.io/github/license/stein197/php-http-status)](LICENSE)
 ![](https://img.shields.io/packagist/v/stein197/http-status)
 
 # HTTP status codes enum
